@@ -1,6 +1,7 @@
-📊 Sales Data Analytics Dashboard with Machine Learning
+Project link - https://huggingface.co/spaces/Ranjith511/Data-Analyser
 
- Project link - https://huggingface.co/spaces/Ranjith511/Data-Analyser
+📊 Sales Data Analytics Dashboard with Machine Learning
+ 
 🔹 Overview
 
 This project is an end-to-end data analytics dashboard built using Python and Streamlit. It allows users to upload datasets, clean data, visualize insights, store data in MySQL, and predict future sales using machine learning.
